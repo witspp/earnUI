@@ -359,9 +359,8 @@ body {
   padding-left: 8px;
   padding-top: 8px;
   padding-bottom: 10px;
-
   background: url(image.png);
-  transform: rotate(39.56deg);
+  /* transform: rotate(39.56deg); */
 }
 .logo2 {
   background-color: white;
